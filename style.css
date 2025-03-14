@@ -1,0 +1,23 @@
+p:hover{
+    color:blueviolet;
+    font-size: 20px;
+}
+.standout{
+    color:aqua;
+}
+.image1{
+    border-radius: 50%;
+}
+.image2{
+    border-radius: 30px;
+}
+.image3{
+    opacity: 0.4;
+}
+.image4{
+    filter:grayscale(40%)
+
+}
+.image5{
+    filter:blur(7px)
+}
